@@ -47,7 +47,7 @@ async def save_group(bot, message):
     else:
         for u in message.new_chat_members:
             zaute = [[
-            InlineKeyboardButton('👉 ⚠️ Press me... 🥰 👈', url="https://t.me/josprojects")
+            InlineKeyboardButton('👉 ⚠️ Press me... 🥰 👈', url="https://t.me/Film_World_Main_Channel")
         ]]
             if (temp.MELCOW).get('welcome') is not None:
                 try:
